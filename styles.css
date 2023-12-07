@@ -1,0 +1,15 @@
+/* Då flexbox användes senast kommer grid vara det primära nu */
+
+
+#huvud {
+    color: red;
+    background-color: aquamarine;
+    grid-area: head;
+}
+
+.gridcontainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-areas: ;
+    
+}
