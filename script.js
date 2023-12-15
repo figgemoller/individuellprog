@@ -1,4 +1,4 @@
-
+// javascript för redditkopian
 
 let postsSection = document.getElementById("posts-section");//skapar en sektion för att sedan kunna rensa sidan och skriva ut nytt
 let posts = []; //definiera en global variabel som heter posts (skall innehålla alla inlägg)
